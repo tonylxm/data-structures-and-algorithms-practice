@@ -1,4 +1,5 @@
 // Tony Lim tlim334
+// DATE CREATED: 17/08/2023
 // AVL Tree implementation & rotation (self-balancing algorithm) for SOFTENG 284
 
 public class AvlTree {
